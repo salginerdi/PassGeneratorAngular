@@ -1,27 +1,89 @@
-# Password
+# Şifre Oluşturucu
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.6.
+Bu proje, Angular kullanılarak geliştirdiğim ilk proje olan basit bir şifre oluşturucu uygulamasıdır. Kullanıcılar, istedikleri uzunlukta ve içerikte (harfler, sayılar, semboller) güvenli şifreler oluşturabilirler.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Özellikler
 
-## Code scaffolding
+- Özelleştirilebilir şifre uzunluğu
+- Harf, sayı ve sembol kullanımı seçenekleri
+- Anlık şifre oluşturma
+- Kullanıcı dostu arayüz
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Teknolojiler
 
-## Build
+- Angular 
+- TypeScript
+- HTML
+- CSS (Bulma CSS framework'ü kullanılmıştır)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Kurulum
 
-## Running unit tests
+1. Repoyu klonlayın: git clone https://github.com/salginerdi/PassGeneratorAngular.git
+2. Proje dizinine gidin: cd password
+3. Bağımlılıkları yükleyin: npm install
+4. Uygulamayı çalıştırın: ng serve
+5. 5. Tarayıcınızda `http://localhost:4200/` adresine gidin.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Kullanım
 
-## Running end-to-end tests
+1. Şifre uzunluğunu belirleyin.
+2. İstediğiniz karakter tiplerini (harfler, sayılar, semboller) seçin.
+3. "Oluştur" butonuna tıklayın.
+4. Oluşturulan şifre ekranda görüntülenecektir.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Katkıda Bulunma
 
-## Further help
+1. Bu repoyu fork edin.
+2. Yeni bir özellik dalı oluşturun (`git checkout -b yeni-ozellik`)
+3. Değişikliklerinizi commit edin (`git commit -am 'Yeni özellik: Açıklama'`)
+4. Dalınıza push yapın (`git push origin yeni-ozellik`)
+5. Bir Pull Request oluşturun.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+### Görsel: 
+
+-------------------------------
+
+# Password Generator
+
+This project is a simple password generator application developed using Angular, my first project using this framework. Users can create secure passwords of desired length and content (letters, numbers, symbols).
+
+## Features
+
+- Customizable password length
+- Options for including letters, numbers, and symbols
+- Instant password generation
+- User-friendly interface
+
+## Technologies Used
+
+- Angular
+- TypeScript
+- HTML
+- CSS (utilizing the Bulma CSS framework)
+
+## Installation
+
+1. Clone the repository: `git clone https://github.com/salginerdi/PassGeneratorAngular.git`
+2. Navigate to the project directory: `cd password`
+3. Install dependencies: `npm install`
+4. Run the application: `ng serve`
+5. Open your browser and go to `http://localhost:4200/`
+
+## Usage
+
+1. Specify the password length.
+2. Choose the character types you want (letters, numbers, symbols).
+3. Click on the "Generate" button.
+4. The generated password will be displayed on the screen.
+
+## Contributing
+
+1. Fork this repository.
+2. Create a new feature branch (`git checkout -b new-feature`).
+3. Commit your changes (`git commit -am 'New feature: Description'`).
+4. Push to the branch (`git push origin new-feature`).
+5. Create a new Pull Request.
+
+### Image:
+
