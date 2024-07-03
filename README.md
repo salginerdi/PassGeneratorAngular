@@ -40,7 +40,8 @@ Bu proje, Angular kullanılarak geliştirdiğim ilk proje olan basit bir şifre 
 4. Dalınıza push yapın (`git push origin yeni-ozellik`)
 5. Bir Pull Request oluşturun.
 
-### Görsel: ![PassGenerator](https://github.com/salginerdi/PassGeneratorAngular/assets/110611268/2935127b-3485-4439-9582-bfc87816bc63)
+### Görsel: 
+![PassGenerator](https://github.com/salginerdi/PassGeneratorAngular/assets/110611268/2935127b-3485-4439-9582-bfc87816bc63)
 
 
 -------------------------------
@@ -86,6 +87,7 @@ This project is a simple password generator application developed using Angular,
 4. Push to the branch (`git push origin new-feature`).
 5. Create a new Pull Request.
 
-### Image: ![PassGenerator](https://github.com/salginerdi/PassGeneratorAngular/assets/110611268/cbcad760-58da-4f41-8e62-ed02efd506d4)
+### Image: 
+![PassGenerator](https://github.com/salginerdi/PassGeneratorAngular/assets/110611268/cbcad760-58da-4f41-8e62-ed02efd506d4)
 
 
